@@ -27,25 +27,6 @@ I'm a **Full-Stack Software Engineer** with **3+ years of proven experience** de
 
 ---
 
-## 💼 Professional Experience Highlights
-
-### **🏢 Software Engineer – Web & Mobile Apps** | TBTD (Jul 2025 - Present)
-**Delivered 5+ production-grade applications integrated with enterprise SAP systems:**
-
-- **Asset Tracking System (ATS)** - Android app with barcode/QR scanning on Zebra enterprise scanners
-- **Field Sales App** - Kotlin Android app with multi-provider e-payment support (Orange Money, Fawry)
-- **Kiosk Application** - .NET/C# desktop app connecting ZKTeco biometric devices to SQL Server and SAP
-- **Employee Self-Service Portal** - React web app with real-time SAP OData integration (attendance, leave management, missions)
-- **Full UI/UX Design** across all projects with responsive layouts and agile collaboration
-
-### **🎓 Training & Development**
-- **Full Stack Developer** - IBM via Coursera (Apr-Jul 2025): React, Node.js, Express, MongoDB, SQL
-- **Frontend Developer** - StudentGator (Sep-Nov 2025): Angular, React, Strapi CMS, REST APIs
-- **UI/UX Design Professional** - Google via Coursera (Jan-Apr 2025): Figma, wireframing, prototyping
-- **Enterprise Systems Training** - Emirates NBD Bank, Banque Misr, CIB
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend Development
@@ -107,52 +88,6 @@ I'm a **Full-Stack Software Engineer** with **3+ years of proven experience** de
 
 ---
 
-## 🏆 Featured Projects
-
-### 1. **🏢 Employee Self-Service Portal** | TBTD
-**Enterprise HR Portal with Real-Time SAP Integration**
-- React.js frontend with Vanilla JS optimization
-- Real-time SAP OData integration for live data sync
-- Features: Attendance tracking, leave requests & approvals, leave balances, mission management, received items
-- Role-based access control (employees & managers)
-- Responsive design for desktop and mobile
-- **Tech Stack**: React.js, Vanilla JS, SAP OData, REST APIs, HTML5, CSS3
-
-### 2. **🎯 Kiosk Application** | TBTD
-**Touch-Screen Biometric Attendance & Access Control System**
-- .NET Framework with WPF (XAML) for enterprise desktop
-- ZKTeco biometric device integration
-- Real-time attendance tracking and access control
-- SQL Server backend for robust data management
-- SAP RFC/REST integration for enterprise sync
-- **Tech Stack**: .NET Framework, C#, WPF, SQL Server, ZKTeco SDK, SAP RFC/REST
-
-### 3. **📦 Asset Tracking System (ATS)** | TBTD
-**Enterprise Barcode/QR Scanning on Zebra Devices**
-- Native Android (Java) development on Zebra enterprise scanners
-- Barcode/QR code scanning with real-time capture
-- Automatic SAP synchronization via REST APIs
-- Offline-first architecture with local database
-- **Tech Stack**: Android (Java), Zebra Device SDK, SQLite, Retrofit, SAP REST APIs, Git/GitHub
-
-### 4. **💳 Field Sales App** | TBTD
-**Multi-Provider E-Payment Collection System**
-- Kotlin Android app for field sales representatives
-- Order & customer management with real-time updates
-- Multi-provider e-payment integration (Orange Money, Fawry)
-- Material Design for professional UX
-- **Tech Stack**: Kotlin, Retrofit, Room Database, REST APIs, Material Design
-
-### 5. **🤰 GenCare - Pregnancy Tracker** | Full-Stack
-**Bilingual Health Platform with AI-Based Analysis**
-- React.js + React Native cross-platform development
-- AI-powered fetal health analysis with 3D visualization
-- Node.js/Express backend with Firebase integration
-- Push notifications (FCM) and real-time updates
-- Advanced animations with Framer Motion and Three.js
-- **Tech Stack**: React.js, React Native, Node.js, Express.js, Firebase, FCM, Three.js, Framer Motion
-
----
 
 ## 📊 Key Statistics
 
@@ -168,21 +103,6 @@ I'm a **Full-Stack Software Engineer** with **3+ years of proven experience** de
 
 ---
 
-## 🎓 Certifications & Achievements
-
-<div align="center">
-
-✅ **IBM Full Stack Software Developer** (2025)  
-✅ **Google UX Design Professional Certificate** (2025)  
-✅ **Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)** (2024)  
-✅ **NASA International Space Apps Challenge** (2024)  
-✅ **MCIT – Digital Egypt Pioneers Initiative (Front-End Development)** (2024)  
-✅ **CCNA: Switching, Routing, and Wireless Essentials** (2024)  
-✅ **CCNA: Introduction to Networks** (2023)  
-
-</div>
-
----
 
 ## 🎯 What I'm Doing Now
 
@@ -198,13 +118,6 @@ I'm a **Full-Stack Software Engineer** with **3+ years of proven experience** de
 ## 💪 Soft Skills
 
 **Problem Solving** • **Analytical Thinking** • **Adaptability** • **Team Collaboration** • **Attention to Detail** • **Creativity** • **Agile/Scrum** • **Technical Leadership**
-
----
-
-## 🌍 Languages
-
-- 🇪🇬 **Arabic** - Native
-- 🇬🇧 **English** - Fluent
 
 ---
 
@@ -228,16 +141,6 @@ I'm a **Full-Stack Software Engineer** with **3+ years of proven experience** de
 ![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaEmil748&show_icons=true&theme=radical&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEmil748&layout=compact&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-  
-  **✨ Thanks for visiting my profile! I'm always excited to discuss new technologies, collaborate on interesting projects, and build something amazing together! ✨**
-  
-  *Let's create something extraordinary* 🚀
 
 </div>
 
