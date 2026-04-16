@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  **🏢 Software Engineer **   
+  **🏢 Software Engineer**   
   **⭐ 3+ Years Building Production-Grade Applications**
   
 </div>
