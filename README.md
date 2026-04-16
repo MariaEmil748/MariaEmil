@@ -89,38 +89,6 @@ I'm a **Full-Stack Software Engineer** with **3+ years of proven experience** de
 ---
 
 
-## 📊 Key Statistics
-
-| Category | Skills |
-|----------|--------|
-| **Frontend Frameworks** | React, Angular, React Native, Vue |
-| **Backend Platforms** | Node.js, Express.js, .NET Framework, C# |
-| **Mobile Platforms** | Android (Java/Kotlin), React Native, iOS |
-| **Databases** | MongoDB, MySQL, SQL Server, SQLite, Firebase |
-| **Enterprise Systems** | SAP OData, SAP REST APIs, ZKTeco SDK |
-| **Design & UX** | Figma, Adobe Suite, Responsive Design, Accessibility |
-| **Years of Experience** | 3+ Years in Production Development |
-
----
-
-
-## 🎯 What I'm Doing Now
-
-- 🚀 Building production-grade full-stack applications with modern tech stacks
-- 🎨 Designing user-centered interfaces with Figma and implementing responsive layouts
-- 🔗 Integrating complex enterprise systems (SAP, biometric devices, payment gateways)
-- 📱 Developing cross-platform mobile applications with React Native and native Android
-- 🌐 Exploring advanced architecture patterns and cloud technologies
-- 💡 Contributing to open-source projects and mentoring junior developers
-
----
-
-## 💪 Soft Skills
-
-**Problem Solving** • **Analytical Thinking** • **Adaptability** • **Team Collaboration** • **Attention to Detail** • **Creativity** • **Agile/Scrum** • **Technical Leadership**
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -128,7 +96,6 @@ I'm a **Full-Stack Software Engineer** with **3+ years of proven experience** de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-emil-956a93219/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MariaEmil748)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaemil4t2@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://mariaemil.com)
 
 </div>
 
