@@ -6,8 +6,7 @@
 
 <div align="center">
   
-  **🏢 Software Engineer @ TBTD (Subsidiary of Philip Morris)**  
-  **📍 Giza, Egypt | 📧 mariaemil4t2@gmail.com | 📱 +20 128 080 0693**  
+  **🏢 Software Engineer **   
   **⭐ 3+ Years Building Production-Grade Applications**
   
 </div>
