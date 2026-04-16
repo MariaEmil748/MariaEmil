@@ -99,19 +99,7 @@ I'm a **Full-Stack Software Engineer** with **3+ years of proven experience** de
 
 </div>
 
----
 
-<div align="center">
-  
-### 📈 GitHub Stats
-
-![Maria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MariaEmil748&show_icons=true&theme=radical&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MariaEmil748&layout=compact&theme=radical)
-
-</div>
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
