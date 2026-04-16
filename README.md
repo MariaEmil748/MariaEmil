@@ -18,14 +18,6 @@
 
 I'm a **Full-Stack Software Engineer** with **3+ years of proven experience** designing, developing, and delivering production-grade applications across **web, mobile, desktop, and enterprise domains**. I specialize in **SAP integrations, e-payment systems, biometric hardware integration, and enterprise solutions** with a strong focus on **UI/UX design** and creating seamless user experiences.
 
-### 🎯 Core Expertise:
-- **Full-Stack Development**: React, Angular, Node.js, Express, .NET/C#
-- **Mobile Development**: Android (Java/Kotlin), React Native with advanced features (biometric scanning, e-payment integration)
-- **Enterprise Systems**: SAP OData/REST API integration, SQL Server, ZKTeco biometric devices
-- **Desktop Applications**: .NET/WPF desktop applications for enterprise kiosk systems
-- **UI/UX Design**: Figma prototyping, responsive design, accessibility, multi-language support (Arabic/English)
-
----
 
 ## 🛠️ Tech Stack
 
