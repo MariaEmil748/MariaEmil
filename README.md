@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Maria Emil Mechail
+# 👋 Hi, I'm Maria Emil
     
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Full-Stack+Software+Engineer;Web+%26+Mobile+Application+Developer;Enterprise+Systems+Specialist" alt="Typing SVG" />
